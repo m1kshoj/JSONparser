@@ -1,0 +1,4 @@
+org\example\JsonParser.class
+org\example\JsonParser$TicketsData.class
+org\example\Main.class
+org\example\JsonParser$Ticket.class
